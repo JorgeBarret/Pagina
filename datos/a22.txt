@@ -1,0 +1,6 @@
+Código: a22
+Nombre: javier
+Contraseña: 1234
+Correo: jajaj@hot
+Telefono: 1234567
+Fin del registro

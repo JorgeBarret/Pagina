@@ -1,0 +1,6 @@
+Código: 5248301
+Nombre: Alirio Burbano
+Contraseña: 123456
+Correo: luis@gmail.com
+Telefono: 3137790456
+Fin del registro

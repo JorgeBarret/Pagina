@@ -1,0 +1,6 @@
+Código: 
+Nombre: 
+Contraseña: 
+Correo: 
+Telefono: 
+Fin del registro
